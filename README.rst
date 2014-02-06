@@ -15,7 +15,7 @@ is crazy simple::
 
 In the above example, 'results' is a list which contains dictionaries with the
 following keys: ``id``, ``suburb``, ``area``, ``postal``, ``street``.
-Similarly, 'objecst' is a list which contains objects of the ``PocoLocation``
+Similarly, 'objects' is a list which contains objects of the ``PocoLocation``
 class.  The ``PocoLocation`` class has the same keys mentioned above as class
 attributes.  So basically, use ``results_as_dicts`` or ``results_as_objects``,
 depending on what your application needs.
