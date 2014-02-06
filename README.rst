@@ -26,7 +26,7 @@ depending on what your application needs.
 
 * The search term must contain at least 3 characters.
 
-An exception of type requests.exceptions.HTTPError will be raised if the above
+An exception of type ``requests.exceptions.HTTPError`` will be raised if the above
 requirements are not met.
 
 For reference, the Poco API documentation is available at
